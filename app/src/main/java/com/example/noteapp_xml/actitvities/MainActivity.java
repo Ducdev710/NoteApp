@@ -100,10 +100,6 @@ public class MainActivity extends AppCompatActivity implements NoteListener {
                 }
             }
         });
-        /*findViewById(R.id.imageAddNote).setOnClickListener(view ->
-                startActivityForResult(
-                new Intent(getApplicationContext(), CreateNoteActivity.class),
-                REQUEST_CODE_ADD_NOTE));*/
         findViewById(R.id.imageAddImage).setOnClickListener(view -> {
             selectImage();
         });
