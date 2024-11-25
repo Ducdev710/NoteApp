@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NoteApp-XML</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_your_notes">Search</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_your_note_here">Type your note here</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">Are you sure you want to delete this note?</string>
+    <string name="pin_this_note">Pin/Unpin this note</string>
+    <string name="about_us">About Us</string>
+    <string name="deleted_list">Deleted List</string>
+    <string name="light_dark_mode">Light/Dark Mode</string>
+    <string name="deleted_notes">Deleted Notes</string>
+    <string name="edit">Edit</string>
+    <string name="restore">Restore</string>
+    <string name="delete_all">Delete All</string>
+    <string name="restore_all">Restore All</string>
+    <string name="are_you_sure_you_want_to_delete_all_notes">Are you sure you want to delete all notes?</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".actitvities.AboutUsActitity">
+    <LinearLayout
+        android:id="@+id/AboutUsTitleLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorQuickActionsBackground"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/_15sdp"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/backToMain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_12sdp"
+            android:src="@drawable/baseline_arrow_back_ios_24"
+            android:contentDescription="@string/app_name"
+            android:clickable="true"
+            android:focusable="true"
+            app:tint="@color/colorWhite" />
+        <TextView
+            android:id="@+id/AboutUsTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_12sdp"
+            android:layout_marginEnd="@dimen/_12sdp"
+            android:fontFamily="@font/bold"
+            android:includeFontPadding="false"
+            android:text="@string/about_us"
+            android:textColor="@color/colorWhite"
+            android:textSize="@dimen/_20ssp"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/ideaText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/regular"
+        android:text="Idea and design by..."
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_16sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.06"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/AboutUsTitleLayout" />
+
+    <TextView
+        android:id="@+id/updateByText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/regular"
+        android:gravity="center"
+        android:text="Update by Vũ Minh Đức"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/_16sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.049"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ideaText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
