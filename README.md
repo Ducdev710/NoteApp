@@ -6,6 +6,7 @@ Các chức năng cơ bản:
 4. Các ghi chú đã xóa có thể khôi phục hoặc xóa vình viễn
 5. Có thể thêm nhanh ảnh ở màn hình chính
 # Hình ảnh giao diện:
+![image](https://github.com/user-attachments/assets/59bd5848-05da-4f0b-b1bb-1316ca4ab8cd)
 ![image](https://github.com/user-attachments/assets/05bc413e-c5da-4bcc-b470-99fde85a3761)
 ![image](https://github.com/user-attachments/assets/57a73050-0dc3-4ef2-8c18-c728b120bc47)
 ![image](https://github.com/user-attachments/assets/b972d669-c0f2-4ddf-9f8e-52bd417dbbe7)
