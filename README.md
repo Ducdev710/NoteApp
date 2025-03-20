@@ -2,8 +2,9 @@
 Các chức năng cơ bản:
 1. Thêm, sửa, xóa các ghi chú
 2. Các ghi chú có thể thêm ảnh, thêm màu, đường link
-3. Các ghi chú đã xóa có thể khôi phục hoặc xóa vình viễn
-4. Có thể thêm nhanh ảnh ngoài màn hình chính
+3. Có thể ghim các ghi chú quan trọng lên đầu đầu danh sách
+4. Các ghi chú đã xóa có thể khôi phục hoặc xóa vình viễn
+5. Có thể thêm nhanh ảnh ở màn hình chính
 # Hình ảnh giao diện:
 ![image](https://github.com/user-attachments/assets/05bc413e-c5da-4bcc-b470-99fde85a3761)
 ![image](https://github.com/user-attachments/assets/57a73050-0dc3-4ef2-8c18-c728b120bc47)
