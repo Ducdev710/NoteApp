@@ -1,6 +1,6 @@
 # Note App (ứng dụng chưa qua kiểm thử)
 Các chức năng cơ bản:
-1. Thêm, sửa, xóa các ghi chú
+1. Thêm, sửa, xóa và tìm kiếm các ghi chú
 2. Các ghi chú có thể thêm ảnh, thêm màu, đường link
 3. Có thể ghim các ghi chú quan trọng lên đầu đầu danh sách
 4. Các ghi chú đã xóa có thể khôi phục hoặc xóa vình viễn
